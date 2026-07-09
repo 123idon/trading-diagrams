@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 240" font-family="sans-serif">
+  <rect width="260" height="240" fill="#f7f5ef"/>
+  <text x="130.0" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#1c1b18">유성형 (Shooting Star)</text>
+  
+    <line x1="130" y1="60" x2="130" y2="180" stroke="#2471a3" stroke-width="2.5"/>
+    <rect x="117.0" y="155" width="26" height="15" fill="#2471a3" rx="1"/><text x="130" y="205" text-anchor="middle" font-size="12" fill="#666">위꼬리 = 몸통 2배 이상</text><text x="130" y="222" text-anchor="middle" font-size="11" fill="#2471a3">상승 끝 → 매도 신호</text>
+</svg>
