@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" font-family="sans-serif">
+  <rect width="400" height="260" fill="#f7f5ef"/>
+  <text x="200.0" y="24" text-anchor="middle" font-size="15" font-weight="700" fill="#1c1b18">MACD 구조와 신호</text>
+  
+  <text x="20" y="46" font-size="11" fill="#666">MACD선(파랑) · 시그널선(빨강) · 히스토그램(막대)</text>
+  <!-- 0선 -->
+  <line x1="30" y1="130" x2="370" y2="130" stroke="#999" stroke-width="1"/>
+  <text x="374" y="134" font-size="10" fill="#999">0</text>
+  <!-- 히스토그램 막대 -->
+  <rect x="50" y="130" width="14" height="28" fill="#9ec6e8"/>
+  <rect x="70" y="130" width="14" height="18" fill="#9ec6e8"/>
+  <rect x="90" y="122" width="14" height="8" fill="#f0b9b0"/>
+  <rect x="110" y="105" width="14" height="25" fill="#f0b9b0"/>
+  <rect x="130" y="90" width="14" height="40" fill="#f0b9b0"/>
+  <rect x="150" y="80" width="14" height="50" fill="#f0b9b0"/>
+  <rect x="170" y="92" width="14" height="38" fill="#f0b9b0"/>
+  <rect x="190" y="110" width="14" height="20" fill="#f0b9b0"/>
+  <rect x="210" y="130" width="14" height="14" fill="#9ec6e8"/>
+  <rect x="230" y="130" width="14" height="30" fill="#9ec6e8"/>
+  <!-- MACD선 -->
+  <polyline points="57,150 77,140 97,124 117,105 137,88 157,78 177,86 197,104 217,124 237,145" fill="none" stroke="#1f6dc0" stroke-width="2"/>
+  <!-- 시그널선 -->
+  <polyline points="57,145 77,142 97,133 117,120 137,104 157,92 177,90 197,98 217,112 237,128" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <!-- 골든크로스 표시 -->
+  <circle cx="103" cy="128" r="5" fill="none" stroke="#2e8b57" stroke-width="2"/>
+  <text x="95" y="185" font-size="10" fill="#2e8b57" font-weight="600">골든크로스</text>
+  <!-- 데드크로스 -->
+  <circle cx="200" cy="100" r="5" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <text x="196" y="205" font-size="10" fill="#c0392b" font-weight="600">데드크로스</text>
+  <text x="200" y="245" text-anchor="middle" font-size="11" fill="#666">히스토그램 방향 전환이 크로스보다 먼저 나온다</text>
+
+</svg>
