@@ -1,11 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 230" font-family="sans-serif">
-  <rect width="260" height="230" fill="#f7f5ef"/>
-  <text x="130.0" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#1c1b18">샛별형 (Morning Star)</text>
-  
-    <line x1="70" y1="62" x2="70" y2="138" stroke="#2471a3" stroke-width="2.5"/>
-    <rect x="57.0" y="70" width="26" height="60" fill="#2471a3" rx="1"/>
-    <line x1="130" y1="145" x2="130" y2="165" stroke="#c0392b" stroke-width="2.5"/>
-    <rect x="117.0" y="150" width="26" height="8" fill="#c0392b" rx="1"/>
-    <line x1="190" y1="65" x2="190" y2="138" stroke="#c0392b" stroke-width="2.5"/>
-    <rect x="177.0" y="72" width="26" height="58" fill="#c0392b" rx="1"/><text x="130" y="192" text-anchor="middle" font-size="10.5" fill="#666">음봉 → 작은봉(도지) → 큰 양봉</text><text x="130" y="210" text-anchor="middle" font-size="11" fill="#c0392b">하락 끝 → 반전 (신뢰도 최상)</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" font-family="sans-serif">
+  <rect width="300" height="240" fill="#f7f5ef"/>
+  <text x="150.0" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#1c1b18">샛별형 (Morning Star)</text>
+  <line x1="70" y1="52" x2="70" y2="128" stroke="#1f6dc0" stroke-width="2.5"/><rect x="57.0" y="60" width="26" height="60" fill="#1f6dc0" rx="1"/><line x1="130" y1="142" x2="130" y2="165" stroke="#1f6dc0" stroke-width="2.5"/><rect x="121.0" y="150" width="18" height="6" fill="#1f6dc0" rx="1"/><line x1="190" y1="138" x2="190" y2="152" stroke="#c0392b" stroke-width="2.5"/><rect x="177.0" y="80" width="26" height="65" fill="#c0392b" rx="1"/>
+  <text x="150.0" y="205" text-anchor="middle" font-size="12" fill="#666">음봉 → 도지 → 양봉 (하락 끝)</text>
+  <text x="150.0" y="222" text-anchor="middle" font-size="11" fill="#c0392b">3캔들 반전 · 신뢰도 최상</text>
 </svg>
