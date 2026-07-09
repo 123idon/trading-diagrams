@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" font-family="sans-serif">
+  <rect width="400" height="260" fill="#f7f5ef"/>
+  <text x="200.0" y="24" text-anchor="middle" font-size="15" font-weight="700" fill="#1c1b18">RSI 음적 다이버전스</text>
+  
+  <text x="20" y="48" font-size="12" font-weight="600" fill="#666">가격</text>
+  <!-- 가격: 고점 높아짐 -->
+  <polyline points="40,110 90,70 140,95 200,45 260,75 320,40" fill="none" stroke="#1c1b18" stroke-width="2"/>
+  <!-- 가격 고점 연결선 (상승) -->
+  <line x1="90" y1="70" x2="200" y2="45" stroke="#c0392b" stroke-width="1.5" stroke-dasharray="4"/>
+  <line x1="200" y1="45" x2="320" y2="40" stroke="#c0392b" stroke-width="1.5" stroke-dasharray="4"/>
+  <circle cx="90" cy="70" r="3" fill="#c0392b"/><circle cx="200" cy="45" r="3" fill="#c0392b"/><circle cx="320" cy="40" r="3" fill="#c0392b"/>
+  <text x="330" y="44" font-size="10" fill="#c0392b">고점↑</text>
+
+  <line x1="30" y1="140" x2="360" y2="140" stroke="#ccc" stroke-width="1"/>
+
+  <text x="20" y="170" font-size="12" font-weight="600" fill="#666">RSI</text>
+  <!-- RSI: 고점 낮아짐 -->
+  <polyline points="40,210 90,175 140,195 200,180 260,200 320,195" fill="none" stroke="#8250c4" stroke-width="2"/>
+  <line x1="90" y1="175" x2="200" y2="180" stroke="#1f6dc0" stroke-width="1.5" stroke-dasharray="4"/>
+  <line x1="200" y1="180" x2="320" y2="195" stroke="#1f6dc0" stroke-width="1.5" stroke-dasharray="4"/>
+  <circle cx="90" cy="175" r="3" fill="#1f6dc0"/><circle cx="200" cy="180" r="3" fill="#1f6dc0"/><circle cx="320" cy="195" r="3" fill="#1f6dc0"/>
+  <text x="330" y="199" font-size="10" fill="#1f6dc0">고점↓</text>
+
+  <text x="200" y="245" text-anchor="middle" font-size="12" fill="#c0392b" font-weight="600">음적 다이버전스 = 상승 소진 → 하락 반전 경고</text>
+
+</svg>
