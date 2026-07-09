@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 240" font-family="sans-serif">
+  <rect width="280" height="240" fill="#f7f5ef"/>
+  <text x="140.0" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#1c1b18">먹구름형 (Dark Cloud)</text>
+  <line x1="90" y1="52" x2="90" y2="138" stroke="#c0392b" stroke-width="2.5"/><rect x="77.0" y="60" width="26" height="70" fill="#c0392b" rx="1"/><line x1="160" y1="78" x2="160" y2="142" stroke="#1f6dc0" stroke-width="2.5"/><rect x="147.0" y="85" width="26" height="50" fill="#1f6dc0" rx="1"/>
+  <text x="140.0" y="205" text-anchor="middle" font-size="12" fill="#666">양봉 50% 이상 침투 음봉</text>
+  <text x="140.0" y="222" text-anchor="middle" font-size="11" fill="#1f6dc0">상승 끝 → 반전 · ★★★</text>
+</svg>
