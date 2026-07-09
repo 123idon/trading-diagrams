@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" font-family="sans-serif">
+  <rect width="400" height="260" fill="#f7f5ef"/>
+  <text x="200.0" y="24" text-anchor="middle" font-size="15" font-weight="700" fill="#1c1b18">볼린저밴드 수축과 밴드워킹</text>
+  
+  <!-- 상단밴드 -->
+  <path d="M40,70 Q100,72 150,74 T250,55 T360,45" fill="none" stroke="#8250c4" stroke-width="1.5"/>
+  <!-- 하단밴드 -->
+  <path d="M40,150 Q100,148 150,146 T250,130 T360,95" fill="none" stroke="#8250c4" stroke-width="1.5"/>
+  <!-- 중심선 -->
+  <path d="M40,110 Q100,110 150,110 T250,92 T360,70" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="3"/>
+  <!-- 가격 -->
+  <polyline points="45,115 70,108 95,112 120,109 145,110 170,100 195,85 220,70 250,60 290,55 330,50 355,48" fill="none" stroke="#1c1b18" stroke-width="2"/>
+  <!-- 수축 구간 표시 -->
+  <rect x="55" y="105" width="95" height="12" fill="none" stroke="#2e8b57" stroke-width="1.5" stroke-dasharray="3"/>
+  <text x="60" y="175" font-size="10" fill="#2e8b57" font-weight="600">수축(Squeeze)</text>
+  <text x="60" y="188" font-size="9" fill="#666">변동성 압축</text>
+  <!-- 밴드워킹 표시 -->
+  <text x="270" y="200" font-size="10" fill="#c0392b" font-weight="600">밴드워킹</text>
+  <text x="255" y="213" font-size="9" fill="#666">상단 타고 상승(추세)</text>
+  <text x="200" y="245" text-anchor="middle" font-size="11" fill="#666">수축 후 → 확장 폭발. 상단 밴드워킹 = 매도 아닌 홀딩</text>
+
+</svg>
