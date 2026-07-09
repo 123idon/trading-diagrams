@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" font-family="sans-serif">
+  <rect width="300" height="240" fill="#f7f5ef"/>
+  <text x="150.0" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#1c1b18">석별형 (Evening Star)</text>
+  <line x1="70" y1="52" x2="70" y2="128" stroke="#c0392b" stroke-width="2.5"/><rect x="57.0" y="60" width="26" height="60" fill="#c0392b" rx="1"/><line x1="130" y1="42" x2="130" y2="65" stroke="#c0392b" stroke-width="2.5"/><rect x="121.0" y="50" width="18" height="6" fill="#c0392b" rx="1"/><line x1="190" y1="58" x2="190" y2="138" stroke="#1f6dc0" stroke-width="2.5"/><rect x="177.0" y="65" width="26" height="65" fill="#1f6dc0" rx="1"/>
+  <text x="150.0" y="205" text-anchor="middle" font-size="12" fill="#666">양봉 → 도지 → 음봉 (상승 끝)</text>
+  <text x="150.0" y="222" text-anchor="middle" font-size="11" fill="#1f6dc0">3캔들 반전 · 하락 전환</text>
+</svg>
